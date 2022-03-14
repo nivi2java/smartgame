@@ -1,2 +1,2 @@
 # smartgame
-hii people
+fisrt commit
